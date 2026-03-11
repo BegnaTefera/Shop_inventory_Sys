@@ -1,0 +1,12 @@
+build
+dist
+*.egg-info
+*.egg  
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.log
+.DS_Store
+.env      
+*Godoliyas.spec  
